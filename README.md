@@ -1,1 +1,3 @@
 rs_comm
+c言語の方にrealsensed435をlibrealsense2経由で読めるクラスが入っている
+librealsense2で座標が読めるためopencvだけで完結できる
